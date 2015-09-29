@@ -4,7 +4,7 @@
 #
 Name     : rubygem-latest_ruby
 Version  : 0.0.4
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/latest_ruby-0.0.4.gem
 Source0  : https://rubygems.org/downloads/latest_ruby-0.0.4.gem
 Summary  : No detailed summary available
